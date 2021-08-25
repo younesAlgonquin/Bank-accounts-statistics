@@ -1,19 +1,4 @@
-/**************************************************************************
-Student name: Younes Boutaleb
-Student number: 041019068
-Assignment number (and name if any): 
 
-Lab 05 (Part II): Transaction Processing Program using Random Access Files 
-                                                      
-Course name and number: CST8234 C Language
-Lab section number: 013
-Professor’s name: Natalie Gluzman
-Due date of assignment: August 13th, 2021
-Submission date of assignment: August 10th, 2021
-List of source and header files in the project: 
-                          
-Lab05_Part2.c Lab05_Part2.h
-***************************************************************************/
 
 /**************************************************************************
 Declare include files
@@ -40,7 +25,7 @@ struct clientInfo
  * It also saves the data to a text file to be printed  
  * It loops until the user exits
  * Version: 1.0
- * Author/Student Name: Younes Boutaleb
+
  **************************************************************************/
 int main()
 {
